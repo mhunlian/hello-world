@@ -1,2 +1,2 @@
 # hello-world
-This repository is for INFM 109 
+Hello, my name is Mhun and I am from Burma. I like bone-in chicken wings.
